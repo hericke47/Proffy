@@ -6,7 +6,9 @@ import PageHeader from '../../components/PageHeader';
 export default function TeacherList() {
     return (
         <div id="page-teacher-list" className="Container">
-           <PageHeader title="Estes são os proffys disponíveis." />
+           <PageHeader title="Estes são os proffys disponíveis.">
+               Teste
+           </PageHeader>
         </div>
     )
 }
