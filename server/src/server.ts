@@ -2,13 +2,13 @@ import express from 'express';
 
 const app = express();
 
-app.get('/', function (request, response) {
-    const users = [
-        { name: 'Diego', age: 25 },
-        { name: 'Vini', age: 20 },
-    ]
+// Corpo ( Request Body ): Dados para criação ou atualização de um registro
+// Route Params: Identificar qual recurso eu quero atualizar ou deletar
+// Query Params: Paginação, filtros, ordenação
 
-    return response.json()
+app.get('/', function (request, response) {
+    return response.json({ message: "helo world" });
 });
 
 app.listen(3333);
+
