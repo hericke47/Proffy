@@ -59,7 +59,7 @@ $ git clone https://github.com/hericke47/Proffy.git
 $ yarn install
 
 # Rode a aplicação
-$ yarn start
+$ yarn dev
 ```
 Acesse a API: http://localhost:3333/
 
