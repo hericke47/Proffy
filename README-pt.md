@@ -28,15 +28,6 @@
     <a href="README-pt.md">Português</a>
  </p>
 
-<div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/Proffy/graphs/contributors">
-      contributors
-    </a>
-  </sub>
-</div>
-
 # :pushpin: Tabela de Conteúdo
 
 * [Tecnologias](#computer-tecnologias)
