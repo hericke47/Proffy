@@ -49,13 +49,11 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # :construction_worker: Como rodar
 ```bash
 # Clone o Repositoria
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
+$ git clone https://github.com/hericke47/Proffy.git
 ```
 ### 📦 Rode a API
 
 ```bash
-# Vá para a pasta do servidor
-$ cd Proffy/server
 
 # Instale as depedencias
 $ yarn install
@@ -68,8 +66,6 @@ Acesse a API: http://localhost:3333/
 ### 💻 Rode o Project Web
 
 ```bash
-# Vá para a pasta web
-$ cd Proffy/web
 
 # Instale as depedencias
 $ yarn install
@@ -83,8 +79,6 @@ Acesse: http://localhost:3000/ para ver o resultado.
 Para rodar o projeto mobile você precisa de um celular com o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instlado ou um emulador android/ios.
 
 ```bash
-# Vá para a pasta mobile
-$ cd Proffy/mobile
 
 # Instale as depedencias
 $ yarn install
