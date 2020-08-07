@@ -66,4 +66,4 @@ foo@bar:~$ yarn add @types/cors -D
 - Listar aulas;
   - Filtrar por matéria, dia da semana e horário;
 
->>>>>>> c12c0e5f8b0e6db5d948356139194062cec4e7dd
+
