@@ -87,22 +87,3 @@ $ yarn install
 $ yarn start
 ```
 Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
-
-
-# :bug: Problemas
-
-Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [Proffy](https://github.com/RafaelGoulartB/Proffy/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
-
-# :tada: Contribuindo
-
-Confira a página de [contribuição](./CONTRIBUTING.md) para ver como começar uma discução e começar a contribuir.
-
-# :closed_book: Licencia
-
-Lançado em 2020 :closed_book: Licencia
-
-Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB) 🚀.
-Esse projeto esta sobre [MIT license](./LICENSE).
-
-
-Dê uma ⭐️ se esse projeto te ajudou!
