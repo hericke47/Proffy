@@ -2,13 +2,13 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react'; 
 import { View,Text } from 'react-native';
 
+import Landing from './src/pages/Landing';
+
 export default function App() {
   return (
     <>
-    <View >
-      <Text>agadg</Text>
+      <Landing />
       <StatusBar style="light" />
-    </View>
     </>
   )
 }
