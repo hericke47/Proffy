@@ -9,6 +9,7 @@ import PageHeader from '../../components/PageHeader';
 import styles from './styles';
 import TeacherItem, { Teacher } from '../../components/TeacherItem';
 import { BorderlessButton, RectButton } from 'react-native-gesture-handler';
+import { useFocusEffect } from '@react-navigation/native';
 
 function TeacherList() {
   const [teachers, setTeachers] = useState([]);
